@@ -1,4 +1,5 @@
 Algoritmo clase2
+	//comentario
 	//definiciones
 	Definir nombre Como Caracter
 	Definir edad Como Entero
